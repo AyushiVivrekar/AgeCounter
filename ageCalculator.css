@@ -1,0 +1,26 @@
+.container{
+    border: 1px soild black !important;
+    background: rgba(254, 255, 255, 0.98);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px 20px 20px 20px;
+    display: block;
+    text-align: center;
+    width: 50% !important;
+    position: relative;
+    top: 70px;
+}
+.heading{
+    font-weight: 700;
+}
+.dateValue{
+    width: 50% !important;
+    margin-bottom: 20px;
+}
+.cal{
+    background-color: rgb(48 96 202);
+    color: #fff;
+    width: 20%;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 15px 5px 15px;
+}
